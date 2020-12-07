@@ -4,7 +4,7 @@
 
 Som en ekstra belønning har julenissen skaffet **10000** pakker med godteri som han skal fordele på de **127 alvene**. De 10000 pakkene med godteri har forskjellig antall biter, fra **10 til 15 biter** per pakke.
 
-Til å hjelpe seg har julenissen fått en av alvene til å telle hvor mange biter det er i pakkene, og har fått tilbake en liste over hvor mange biter det er i hver pakke.
+Til å hjelpe seg har julenissen fått en av alvene til å telle hvor mange biter det er i pakkene, og har fått tilbake en liste (godteri.txt) over hvor mange biter det er i hver pakke.
 
 Julenissen er litt lat, og for å spare arbeid så *åpner han pakkene i rekkefølgen som de står i listen*. Han kan med andre ord ikke åpne en pakke før alle foregående pakker har blitt åpnet. Det er viktig for han at alle alvene får **like mange biter**, og **så mange biter som mulig**. Det skal heller **ikke være noen biter til overs**, alle bitene skal deles ut.
 
