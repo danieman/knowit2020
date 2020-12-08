@@ -1,0 +1,16 @@
+# "One-liner"
+# print(sum([1 for i in range(0, len(spaces) - 1, 2)
+#       if all([line[spaces[i] + 1:spaces[i + 1]] == line[spaces[i] + 1:spaces[i + 1]][::-1]
+#       for line in forest])]))
+
+"""
+def first_solution(a, b):
+    l = b - a - 1
+    for line in forest:
+        s = line[a + 1:b].strip()
+        if s and s.count("#") % 2 == 0:
+            return False
+        if line[a + 1:b] != f"{s:^{l}}":
+            return False
+    return True
+"""
